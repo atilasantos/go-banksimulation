@@ -1,8 +1,8 @@
 kafka:
   name: cluster
-  replicas: 1
+  replicas: 3
   zookeeper:
-    replicas: 1
+    replicas: 3
 
 topics:
   - account-creation.individual
