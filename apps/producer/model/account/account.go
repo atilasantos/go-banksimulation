@@ -2,7 +2,7 @@ package account
 
 import (
 	"fmt"
-	"github.com/atilasantos/go-banksimulation/apps/producer/src/model/person"
+	"github.com/atilasantos/go-banksimulation/apps/producer/model/person"
 )
 
 type Account struct {
